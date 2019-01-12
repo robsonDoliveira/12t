@@ -1,4 +1,4 @@
-
+{
 {
     "idMes": "1",
     "mes": "Mes da travessia",
@@ -8,8 +8,7 @@
     "WhatsAppGrupo": "GRUPO PARA PARTICIPAR",
     "Status": "FEITO"
     }
-  
-{
+  {
     "idMes": "2",
     "mes": "Mes da travessia",
     "nome": "Nome da travessia",
@@ -17,4 +16,5 @@
     "dias": "Data da travessia",
     "WhatsAppGrupo": "GRUPO PARA PARTICIPAR",
     "Status": "FEITO"
+  }
   }
